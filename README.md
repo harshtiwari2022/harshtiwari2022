@@ -13,9 +13,6 @@ I’m a passionate **Full-Stack Web Developer** who loves building real-world pr
 - 🤝 Open to collaborating on **exciting open-source or startup projects**  
 - ⚡ Fun fact: I still enjoy solving **C++ DSA problems** for fun
    
-  
- 
-# 👨‍💻 Portfolio
 
 ## 🚀 Familiar with Tools and Technology:
 
