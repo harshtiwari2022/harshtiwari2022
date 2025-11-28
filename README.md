@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Harsh Tiwari  
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-💻 Passionate **Web Developer** specializing in **MERN stack** and modern web applications.  
-🚀 Skilled in building real-time, scalable, and user-friendly projects.  
-🎯 Currently working on **real-time collaborative tools** and **URL shortener APIs**.  
+</div>
+<div align="center">
 
----
+<!-- Animated Header with Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=71&duration=2000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Harsh+Tiwari" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C9C9C&center=true&vCenter=true&width=800&lines=Electronic+and+Communication+Student;Full-Stack+Developer+%7C;Building+Scalable+Solutions+with+Modern+Tech" alt="Typing SVG" />
+
+<br>
+
+</div>
+
 ## 🙋‍♂️ About Me  
 I’m a passionate **Full-Stack Web Developer** who loves building real-world projects and solving problems using modern technologies.  
 - 🔭 I’m currently working on projects like **Real-time Code Editor** and **URL Shortener**  
@@ -39,8 +47,16 @@ I’m a passionate **Full-Stack Web Developer** who loves building real-world pr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshtiwari2022&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 LeetCode Statistics
+
+<div align="center">
+  <!-- LeetCode Badge -->
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=harshtiwari2023&theme=dark&border=border&animated=true" />
+  <br><br>
+  <!-- LeetCode Heatmap Card -->
+  <img src="https://leetcard.jacoblin.cool/harshtiwari2023?theme=dark&font=Karma&ext=heatmap" width="500"/>
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshtiwari2022&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -48,5 +64,24 @@ I’m a passionate **Full-Stack Web Developer** who loves building real-world pr
 ---
 [![](https://visitcount.itsvg.in/api?id=harshtiwari2022&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+<br>
+
+**💼 Open to opportunities | 🤝 Available for collaborations | 💡 Let's build something amazing together!**
+
+<br>
+
+<sub>Made with 💖 and ☕ by Gaurav Kesh Roushan</sub>
+
+</div>
+
+<br><br>
+
 
