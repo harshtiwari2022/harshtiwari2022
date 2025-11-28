@@ -78,7 +78,7 @@ I’m a passionate **Full-Stack Web Developer** who loves building real-world pr
 
 <br>
 
-<sub>Made with 💖 and ☕ by Gaurav Kesh Roushan</sub>
+<sub>Made with 💖 and ☕ harsh tiwari</sub>
 
 </div>
 
